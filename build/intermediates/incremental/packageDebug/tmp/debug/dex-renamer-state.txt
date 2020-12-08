@@ -1,0 +1,4 @@
+#Tue Dec 08 02:07:11 EET 2020
+base.0=E\:\\Software\\HachuChebureki100soop\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
